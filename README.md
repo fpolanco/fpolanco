@@ -1,16 +1,13 @@
-### Hi there !
+I’m a Frontend Engineer.
+I love creating intuitive user interfaces and building seamless API integrations.
 
-<!--
-**fpolanco/fpolanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m driven to solve problems involving human-computer interaction on unique product teams.
+I want to work on B2C subscription-based applications. Example - Pinterest, Airbnb, and Spotify.
 
-Here are some ideas to get you started:
+Feel free to reach out if you’re building something exciting and hiring for Frontend Engineer roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Email -
+info@franchell.tech
+
+Background -
+Currently working on 5+ front-end web development projects involving JavaScript, React, and Ruby on Rails. Previously worked as a teacher and learning experience designer for 4+ years catering to students with special needs.
